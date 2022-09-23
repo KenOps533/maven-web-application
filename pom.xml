@@ -96,13 +96,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>KenOps Releases Nexus Repository</name>
-	      <url>http://44.204.157.181:8081/repository/maven-releases/</url>
+	      <url>http://3.92.177.222:8081/repository/maven-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>kenOps Snapshot Nexus Repository </name>
-	      <url>http://44.204.157.181:8081/repository/maven-snapshots/</url>
+	      <url>http://3.92.177.222:8081/repository/maven-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
